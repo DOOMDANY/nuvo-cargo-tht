@@ -1,0 +1,31 @@
+{
+  "name": "nuvo-cargo-tht",
+  "version": "0.1.0",
+  "description": "https://docs.google.com/document/d/1TZR-lqjYCAw1EcdCu_Htv1BBs7c8cWZp4-Q_XaFfyZY",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DOOMDANY/nuvo-cargo-tht.git"
+  },
+  "author": "Daniel Plascencia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DOOMDANY/nuvo-cargo-tht/issues"
+  },
+  "homepage": "https://github.com/DOOMDANY/nuvo-cargo-tht#readme",
+  "dependencies": {
+    "next": "12.1.6",
+    "react": "18.1.0",
+    "react-dom": "18.1.0"
+  },
+  "devDependencies": {
+    "eslint": "8.16.0",
+    "eslint-config-next": "12.1.6"
+  }
+}
